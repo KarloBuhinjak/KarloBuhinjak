@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KarloBuhinjak https://gitlab.com/KarloBuhinjak](https://github.com/KarloBuhinjak https://gitlab.com/KarloBuhinjak)
+- 👨‍💻 All of my projects are available at [https://github.com/KarloBuhinjak https://gitlab.com/KarloBuhinjak]
 
 - 📫 How to reach me **buhinjak.k@gmail.com**
 
