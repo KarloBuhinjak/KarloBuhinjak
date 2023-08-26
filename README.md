@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karlo Buhinjak</h1>
-<h3 align="center">Software engineering student passionate about Web programming and Blockchain technologies</h3>
+<h3 align="center">Software engineering student passionate about Web programming and Blockchain technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karlobuhinjak&label=Profile%20views&color=0e75b6&style=flat" alt="karlobuhinjak" /> </p>
 
